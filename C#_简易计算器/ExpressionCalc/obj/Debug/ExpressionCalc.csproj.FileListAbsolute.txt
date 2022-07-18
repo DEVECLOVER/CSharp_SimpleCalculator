@@ -1,0 +1,9 @@
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\C#开发的WinForm简易计算器\ExpressionCalc\bin\Debug\ExpressionCalc.exe.config
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\C#开发的WinForm简易计算器\ExpressionCalc\bin\Debug\ExpressionCalc.exe
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\C#开发的WinForm简易计算器\ExpressionCalc\bin\Debug\ExpressionCalc.pdb
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\C#开发的WinForm简易计算器\ExpressionCalc\obj\Debug\ExpressionCalc.csprojResolveAssemblyReference.cache
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\C#开发的WinForm简易计算器\ExpressionCalc\obj\Debug\ExpressionCalc.Form1.resources
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\C#开发的WinForm简易计算器\ExpressionCalc\obj\Debug\ExpressionCalc.Properties.Resources.resources
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\C#开发的WinForm简易计算器\ExpressionCalc\obj\Debug\ExpressionCalc.csproj.GenerateResource.Cache
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\C#开发的WinForm简易计算器\ExpressionCalc\obj\Debug\ExpressionCalc.exe
+D:\A_CLOVER_FILE\Tech_Practice\VS_Project\C#开发的WinForm简易计算器\ExpressionCalc\obj\Debug\ExpressionCalc.pdb
